@@ -5,6 +5,7 @@ using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
 
+// Final chapter: Examine the Details and Delete methods
 public class MoviesController : Controller
 {
     private readonly MvcMovieContext _context;
